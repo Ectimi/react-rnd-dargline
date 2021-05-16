@@ -1,0 +1,74 @@
+{
+  "version": "1.0.2",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "description": "这是一个基于 react-rnd 实现的拖拽组件，在rnd的功能基础上增加了拖拽时显示辅助线及吸附的功能。",
+  "keywords": ["react","react-dragline","dragline"],
+  "repository":"https://gitee.com/yangjunjie0806/react-rnd-dragline",
+  "homepage": "https://gitee.com/yangjunjie0806/react-rnd-dragline",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "tsdx build",
+    "test": "tsdx test --passWithNoTests",
+    "lint": "tsdx lint",
+    "prepare": "tsdx build",
+    "size": "size-limit",
+    "analyze": "size-limit --why"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "tsdx lint"
+    }
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "name": "react-rnd-dragline",
+  "author": "Yangjunjie",
+  "module": "dist/react-rnd-dragline.esm.js",
+  "size-limit": [
+    {
+      "path": "dist/react-rnd-dragline.cjs.production.min.js",
+      "limit": "10 KB"
+    },
+    {
+      "path": "dist/react-rnd-dragline.esm.js",
+      "limit": "10 KB"
+    }
+  ],
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^4.10.2",
+    "@types/react": "^17.0.5",
+    "@types/react-dom": "^17.0.5",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^5.0.2",
+    "husky": "^6.0.0",
+    "less": "^4.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rollup-plugin-postcss": "^4.0.0",
+    "size-limit": "^4.10.2",
+    "tsdx": "^0.14.1",
+    "tslib": "^2.2.0",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "@types/react-rnd": "^8.0.0",
+    "classnames": "^2.3.1",
+    "react-rnd": "^10.2.4"
+  }
+}
