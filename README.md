@@ -14,6 +14,8 @@ $ yarn add react-rnd-dragline
 ```ts
 //继承 react-rnd 的所有属性
 
+type TUpateHandle = (id: string, ref: HTMLElement, x: number, y: number) => any;
+
 interface IItemProps extends RndProps {
   //必须
   //元素唯一标识
