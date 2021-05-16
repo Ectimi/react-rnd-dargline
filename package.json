@@ -4,9 +4,9 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "description": "这是一个基于 react-rnd 实现的拖拽组件，在rnd的功能基础上增加了拖拽时显示辅助线及吸附的功能。",
-  "keywords": ["react","react-dragline","dragline"],
-  "repository":"https://gitee.com/yangjunjie0806/react-rnd-dragline",
-  "homepage": "https://gitee.com/yangjunjie0806/react-rnd-dragline",
+  "keywords": ["react","react-rnd-dragline","react-dragline","dragline"],
+  "repository":"https://github.com/Ectimi/react-rnd-dargline",
+  "homepage": "https://github.com/Ectimi/react-rnd-dargline",
   "files": [
     "dist",
     "src"
