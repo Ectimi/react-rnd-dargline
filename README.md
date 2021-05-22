@@ -58,19 +58,22 @@ function App() {
       id: nanoid(),
       position: { x: 0, y: 0 },
       size: { width: 300, height: 100 },
-      bgColor: 'red'
+      bgColor: 'red',
+      name:'元素A'
     },
     {
       id: nanoid(),
       position: { x: 0, y: 40 },
       size: { width: 250, height: 40 },
-      bgColor: 'yellow'
+      bgColor: 'yellow',
+      name:'元素B'
     },
     {
       id: nanoid(),
       position: { x: 30, y: 280 },
       size: { width: 100, height: 80 },
-      bgColor: 'green'
+      bgColor: 'green',
+      name:'元素C'
     },
   ])
 
@@ -116,7 +119,7 @@ function App() {
                 backgroundColor: node.bgColor
               }}
             >
-              元素--
+              元素{node.name}
             </div>
           </DragLineItem>
         ))}
