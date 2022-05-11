@@ -22,7 +22,7 @@
 103C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\hash\node_modules\.bin\detect-libc132967252596974125 0
 96C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\less\lib\less\source-map-builder.js132967125545680000 0
 67C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\base-x132967251382812769 1
-52C:\Users\J\Desktop\J\react-rnd-dargline\example\dist132967254013880818 1
+52C:\Users\J\Desktop\J\react-rnd-dargline\example\dist132967260992653597 1
 99C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\internals\engine-is-browser.js132967246035020000 0
 88C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\full\weak-set\of.js132967246035020000 0
 83C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@types\react\README.md132967246035060000 0
@@ -44,7 +44,7 @@
 82C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\less\test\test-es6.ts132967125545680000 0
 116C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\less\test\browser\runner-postProcessorPlugin-options.js132967125545680000 0
 95C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\es\typed-array\for-each.js132967246035020000 0
-58C:\Users\J\Desktop\J\react-rnd-dargline\example\index.less132967254012431555 0
+58C:\Users\J\Desktop\J\react-rnd-dargline\example\index.less132967260893088181 0
 104C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\caniuse-lite\data\features\link-icon-png.js132967125535860000 0
 104C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\watcher\src\linux\InotifyBackend.hh132967250772460000 0
 94C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\internals\to-primitive.js132967246035020000 0
@@ -59,7 +59,7 @@
 103C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\modules\es.object.define-getter.js132967246035020000 0
 78C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\svgo\package.json132967125524940000 0
 78C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\terser\lib\ast.js132967246085660000 0
-58C:\Users\J\Desktop\J\react-rnd-dargline\example\index.html132967253156684591 0
+58C:\Users\J\Desktop\J\react-rnd-dargline\example\index.html132967260931118961 0
 60C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules132967252599098853 1
 93C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\less\lib\less\tree\combinator.js132967125545680000 0
 105C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\typescript\loc\lcl\CHS\TypeScriptDebugEngine132967246271911997 1
@@ -6809,7 +6809,7 @@
 92C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\caniuse-lite\data\regions\CO.js132967125535860000 0
 93C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\es\array\virtual\find.js132967246035020000 0
 97C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\es\array\virtual\flat-map.js132967246035020000 0
-63C:\Users\J\Desktop\J\react-rnd-dargline\example\dist\index.html132967253158536103 0
+63C:\Users\J\Desktop\J\react-rnd-dargline\example\dist\index.html132967260992583615 0
 93C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\es\array\virtual\flat.js132967246035020000 0
 88C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@lezer\common\dist\mix.d.ts132967250789470000 0
 94C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\core-js\es\array\virtual\index.js132967246035020000 0
@@ -7823,7 +7823,7 @@
 116C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json132967125566940000 0
 96C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\watcher\prebuilds\win32-x64132967251389888610 1
 116C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node132967250772460000 0
-71C:\Users\J\Desktop\J\react-rnd-dargline\example\dist\index.317bff6b.css132967254013850965 0
+71C:\Users\J\Desktop\J\react-rnd-dargline\example\dist\index.317bff6b.css132967260992603600 0
 118C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\watcher\prebuilds\darwin-x64\node.napi.glibc.node132967250772460000 0
 120C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\watcher\prebuilds\darwin-arm64\node.napi.glibc.node132967250772460000 0
 94C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\@parcel\watcher\node_modules\.bin132967252597891341 1
@@ -8404,4 +8404,4 @@
 73C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\.bin\tsc.cmd132967252599028846 0
 74C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\.bin\tsserver132967252599048855 0
 78C:\Users\J\Desktop\J\react-rnd-dargline\example\node_modules\.bin\tsserver.cmd132967252599038845 0
-75C:\Users\J\Desktop\J\react-rnd-dargline\example\dist\index.317bff6b.css.map132967254013860820 0
+75C:\Users\J\Desktop\J\react-rnd-dargline\example\dist\index.317bff6b.css.map132967260992623593 0
