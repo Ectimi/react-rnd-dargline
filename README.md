@@ -16,7 +16,7 @@ $ yarn add react-rnd-dragline
 + DragArea
   + bounds: RndProps['bounds']  
   
-     默认值为空 ''
+     默认值为空 ""
 
      拖拽边界，应用到所有DragItem上，也可以单独在DragItem上使用
   + guidelineColor: string
@@ -30,7 +30,7 @@ $ yarn add react-rnd-dragline
     是否开启吸附效果，默认值：ture
   + adsorbThreshold: number
 
-    吸附阈值，onAdsorb为ture时生效，默认值为：3
+    吸附阈值，onAdsorb为ture时生效，默认值为：5
 
 + DragItem
   继承 `react-rnd`的所有属性，更多属性请参考 [react-rnd](https://www.npmjs.com/package/react-rnd)

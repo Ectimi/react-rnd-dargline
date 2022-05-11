@@ -153,7 +153,7 @@ export class DragArea extends PureComponent<IDragAreaProps, IDrageAreaState> {
       },
       guidelineColor = '#448ef7',
       onAdsorb = true,
-      adsorbThreshold = 3,
+      adsorbThreshold = 5,
     } = this.props;
     return (
       <Fragment>
