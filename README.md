@@ -1,4 +1,4 @@
-## 上一个版本存在许多bug,此次重构了代码，重写了实现逻辑和计算算法，使用方法也更简单了
+## 上一个版本存在许多bug，此次重构了代码，重写了实现逻辑和计算算法，使用方法也更简单了
 # react-rnd-dragline
 这是一个基于 react-rnd 实现的拖拽组件，在rnd的功能基础上增加了拖拽时显示辅助线及吸附的功能。
 
@@ -44,8 +44,7 @@ import './index.less';
 
 export default function IndexPage() {
   return (
-    <>
-      <DragArea
+    <DragArea
         bounds="body"
         guidelineColor="red"
         onAdsorb={true}
@@ -64,7 +63,6 @@ export default function IndexPage() {
           <div className="t t3">d</div>
         </DragItem>
       </DragArea>
-    </>
   );
 }
 
