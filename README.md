@@ -39,7 +39,7 @@ $ yarn add react-rnd-dragline
 
 ## 使用方法示例
 ```tsx
-import { DragArea, DragItem } from '@/components/RndDragline';
+import { DragArea, DragItem } from 'react-rnd-dragline';
 import './index.less';
 
 export default function IndexPage() {
