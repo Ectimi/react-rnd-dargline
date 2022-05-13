@@ -35,8 +35,7 @@ $ yarn add react-rnd-dragline
 + DragItem
   继承 `react-rnd`的所有属性，更多属性请参考 [react-rnd](https://www.npmjs.com/package/react-rnd)
 
-
-
+### 注： DragItem的Children样式有padding时，需要设置box-sizing为border-box
 ## 使用方法示例
 ```tsx
 import { DragArea, DragItem } from 'react-rnd-dragline';
